@@ -1,31 +1,31 @@
 // This file is auto gererated by build/build-entry.js
 
-import VeCheckbox from './ve-checkbox';
-import VeCheckboxGroup from './ve-checkbox-group';
-import VeContextmenu from './ve-contextmenu';
-import VeDropdown from './ve-dropdown';
-import VeIcon from './ve-icon';
-import VeLoading from './ve-loading';
-import VeLocale from './ve-locale';
-import VePagination from './ve-pagination';
-import VeRadio from './ve-radio';
-import VeSelect from './ve-select';
-import VeTable from './ve-table';
+import YwVeCheckbox from './ve-checkbox';
+import YwVeCheckboxGroup from './ve-checkbox-group';
+import YwVeContextmenu from './ve-contextmenu';
+import YwVeDropdown from './ve-dropdown';
+import YwVeIcon from './ve-icon';
+import YwVeLoading from './ve-loading';
+import YwVeLocale from './ve-locale';
+import YwVePagination from './ve-pagination';
+import YwVeRadio from './ve-radio';
+import YwVeSelect from './ve-select';
+import YwVeTable from './ve-table';
 
 
 const version = '2.27.1';
 const components = [
-  VeCheckbox,
-  VeCheckboxGroup,
-  VeContextmenu,
-  VeDropdown,
-  VeIcon,
-  VeLoading,
-  VeLocale,
-  VePagination,
-  VeRadio,
-  VeSelect,
-  VeTable
+  YwVeCheckbox,
+  YwVeCheckboxGroup,
+  YwVeContextmenu,
+  YwVeDropdown,
+  YwVeIcon,
+  YwVeLoading,
+  YwVeLocale,
+  YwVePagination,
+  YwVeRadio,
+  YwVeSelect,
+  YwVeTable
 ];
 
 const install = Vue => {
@@ -33,8 +33,8 @@ const install = Vue => {
     Vue.use(Component);
   });
 
-  Vue.prototype.$veLoading = VeLoading;
-  Vue.prototype.$veLocale = VeLocale;
+  Vue.prototype.$veLoading = YwVeLoading;
+  Vue.prototype.$veLocale = YwVeLocale;
 };
 
 /* istanbul ignore if */
@@ -45,31 +45,31 @@ if (typeof window !== 'undefined' && window.Vue) {
 export {
   install,
   version,
-  VeCheckbox,
-  VeCheckboxGroup,
-  VeContextmenu,
-  VeDropdown,
-  VeIcon,
-  VeLoading,
-  VeLocale,
-  VePagination,
-  VeRadio,
-  VeSelect,
-  VeTable
+  YwVeCheckbox,
+  YwVeCheckboxGroup,
+  YwVeContextmenu,
+  YwVeDropdown,
+  YwVeIcon,
+  YwVeLoading,
+  YwVeLocale,
+  YwVePagination,
+  YwVeRadio,
+  YwVeSelect,
+  YwVeTable
 };
 
 export default {
   install,
   version,
-  VeCheckbox,
-  VeCheckboxGroup,
-  VeContextmenu,
-  VeDropdown,
-  VeIcon,
-  VeLoading,
-  VeLocale,
-  VePagination,
-  VeRadio,
-  VeSelect,
-  VeTable
+  YwVeCheckbox,
+  YwVeCheckboxGroup,
+  YwVeContextmenu,
+  YwVeDropdown,
+  YwVeIcon,
+  YwVeLoading,
+  YwVeLocale,
+  YwVePagination,
+  YwVeRadio,
+  YwVeSelect,
+  YwVeTable
 };

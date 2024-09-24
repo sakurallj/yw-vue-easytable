@@ -7,7 +7,7 @@
 [![Gitter](https://badges.gitter.im/vue-easytable/community.svg)](https://gitter.im/vue-easytable/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # vue-easytable
-
+ - 复制 https://github.com/Happy-Coding-Clans/vue-easytable tag：2.27.1
 **English** | [中文](./README-CN.md)
 
 <p>
@@ -180,24 +180,7 @@ Example:
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IE11, Edge                                                                                                                                                                                                      | last 2 versions                                                                                                                                                                                                   | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                           |
-
-## How to contribute
-
-If you want to contribute,just create a
-[Pull Request](https://github.com/huangshuwei/vue-easytable/pulls)
-
-## Contributors
-
-Thanks to the following friends for their contributions 🙏
-
-<a href="https://github.com/Happy-Coding-Clans/vue-easytable/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Happy-Coding-Clans/vue-easytable" />
-</a>
-
-## Discussion group
-
--   [Join In Gitter Chat Room](https://gitter.im/vue-easytable/community)
--   [Join In Discord Chat Room](https://discord.gg/gBm3k6r)
+ 
 
 ## License
 
